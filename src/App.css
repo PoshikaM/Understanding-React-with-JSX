@@ -1,0 +1,18 @@
+/* add your styles here */
+*{
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.title{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+}
+
+.content{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
